@@ -759,3 +759,67 @@
   - ### Note : If You Having Any Trouble reffer this Video [App Engine: 3 Ways: Challenge Lab ARC112](https://www.youtube.com/watch?v=sX1-LFEsizo) 
 
 </details>
+
+### Skill Badge 9 - Cloud Speech API: 3 Ways 
+
+<details>
+  <summary>Lab No. 1 : It Speaks! Create Synthetic Speech Using Text-to-Speech GSP222</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Create%20Synthetic%20Speech%20Using%20quicklab/quicklabgsp222.sh
+    sudo chmod +x quicklabgsp222.sh
+    ./quicklabgsp222.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [It Speaks! Create Synthetic Speech Using Text-to-Speech GSP222](https://www.youtube.com/watch?v=ZrC1bktIC9I) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Translate Text with the Cloud Translation API GSP049</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Translate Text with the Cloud Translation API GSP049](https://www.youtube.com/watch?v=QIyAKsou5CM) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Speech to Text Transcription with the Cloud Speech API GSP048</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-1.sh   
+    sudo chmod +x gsp048-1.sh
+    ./gsp048-1.sh
+  ```
+  - ###  Now Check The Score Upto Task 3 then Process Next.
+  
+  - **Step 5** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-2.sh
+    sudo chmod +x gsp048-2.sh
+    ./gsp048-2.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Speech to Text Transcription with the Cloud Speech API GSP048](https://www.youtube.com/watch?v=Hs4Gpdcb5WI) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Cloud Speech API 3 Ways: Challenge Lab ARC132</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Cloud Speech API 3 Ways: Challenge Lab ARC132](https://www.youtube.com/watch?v=eQIWNzs-0NA) 
+
+</details>
