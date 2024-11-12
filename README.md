@@ -1093,3 +1093,54 @@
   - Follow this video [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab GSP517](https://www.youtube.com/watch?v=DwOxKDyh1RU) 
 
 </details>
+
+### Skill Badge 15 - Get Started with Pub/Sub 
+
+<details>
+  <summary>Lab No. 1 : Pub/Sub: Qwik Start - Console GSP096</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Open the Google Cloud Console 
+  - **Step 8** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    gcloud pubsub topics create myTopic
+    gcloud  pubsub subscriptions create --topic myTopic MySub
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Pub/Sub: Qwik Start - Console GSP096](https://www.youtube.com/watch?v=cAoJDu1BcJA)
+
+</details>
+<details>
+  <summary>Lab No. 2 : Cloud Scheduler: Qwik Start GSP401</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Open the Google Cloud Console 
+  - **Step 8** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Scheduler%20Qwik%20Start/gsp401.sh
+    sudo chmod +x gsp401.sh
+    ./gsp401.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Scheduler: Qwik Start GSP401](https://www.youtube.com/watch?v=cAoJDu1BcJA)
+
+</details>
+
+<details>
+  <summary>Lab No. 2 : Get Started with Pub/Sub: Challenge Lab ARC113</summary>
+  
+  - For `form-1` [Solution](https://www.youtube.com/watch?v=3uCEM2GLHjA)
+  - For `form-2` [Solution](https://www.youtube.com/watch?v=w-bnVtz2dWY)  
+  - For `form-3` [Solution](https://www.youtube.com/watch?v=SZdTvD5Cfig&t=1s)
+
+</details>
