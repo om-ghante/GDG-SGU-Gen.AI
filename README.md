@@ -1026,3 +1026,33 @@
   - Follow this video [DAnalyze Images with the Cloud Vision API: Challenge Lab ARC122](https://www.cloudskillsboost.google/course_templates/633/labs/461567) 
 
 </details>
+
+### Skill Badge 13 - Prompt Design in Vertex AI 
+<details>
+  <summary>Lab No. 1 : Generative AI with Vertex AI: Prompt Design GSP1151</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Generative AI with Vertex AI: Prompt Design GSP1151](https://www.youtube.com/watch?v=h8wTc1lBQ7g) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Get Started with Vertex AI Studio GSP1154</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Get Started with Vertex AI Studio GSP1154](https://www.youtube.com/watch?v=KnORO2af2pA) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Getting Started with the Vertex AI Gemini API and Python SDK GSP1209</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Getting Started with the Vertex AI Gemini API and Python SDK GSP1209](https://www.youtube.com/watch?v=gtJ43Anb2HY) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Prompt Design in Vertex AI: Challenge Lab GSP519</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Prompt Design in Vertex AI: Challenge Lab GSP519](https://www.youtube.com/watch?v=p9ihOVulbM8) 
+
+</details>
