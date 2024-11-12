@@ -5,7 +5,7 @@
 ### Skill Badge 1 - The Basics of Google Cloud Compute
 
 <details>
-  <summary>Lab No. 1 : Data Scraping from Space Websites GSP001</summary>
+  <summary>Lab No. 1 : Creating a Virtual Machine  GSP001</summary>
 
   - **Step 1** : Start The lab 
   - **Step 2** : Open The Google Cloud Console into the incognative mode
@@ -29,7 +29,7 @@
 
   - ### Lab is completed
 
-  - ### Note : If You Having Any Trouble reffer this Video [Data Scraping from Space Websites GSP001](https://www.youtube.com/watch?v=3wUSkRhedag) 
+  - ### Note : If You Having Any Trouble reffer this Video [Creating a Virtual Machine GSP001](https://www.youtube.com/watch?v=3wUSkRhedag) 
 
 </details>
 
