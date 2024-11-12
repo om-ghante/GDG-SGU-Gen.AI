@@ -610,7 +610,7 @@
 
 </details>
 <details>
-  <summary>Lab No. 2 : Cloud Functions: 3 Ways: Challenge Lab ARC104</summary>
+  <summary>Lab No. 4 : Cloud Functions: 3 Ways: Challenge Lab ARC104</summary>
 
   - **Step 1** : Start The lab 
   - **Step 2** : Open The Google Cloud Console into the incognative mode
@@ -743,7 +743,7 @@
   ```
   - **Steo 5** : For `<YOUR_MESSAGE>` Go to Lab instructions again.
   - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
-      <img src="./imges/017.png" alt="!ERROR"/> 
+      <img src="./imges/018.png" alt="!ERROR"/> 
       ### Note : The `MESSAGE` migth be different.
 
   - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
@@ -768,7 +768,7 @@
   - **Step 1** : Start The lab 
   - **Step 2** : Open The Google Cloud Console into the incognative mode
   - **Step 3** : Login Using the username and Password given in the perticular lab
-  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
 
   ```bash
     curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Create%20Synthetic%20Speech%20Using%20quicklab/quicklabgsp222.sh
@@ -817,9 +817,95 @@
 
 </details>
 <details>
-  <summary>Lab No. 2 : Cloud Speech API 3 Ways: Challenge Lab ARC132</summary>
+  <summary>Lab No. 4 : Cloud Speech API 3 Ways: Challenge Lab ARC132</summary>
 
   - **Step 1** : Start The lab 
   - Follow this video [Cloud Speech API 3 Ways: Challenge Lab ARC132](https://www.youtube.com/watch?v=eQIWNzs-0NA) 
+
+</details>
+
+### SKill Badge 10 - Monitoring in Google Cloud
+<details>
+  <summary>Lab No. 1 : Cloud Monitoring: Qwik Start GSP089</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_ZONE>` before pasting.
+  ```bash
+    export ZONE=<YOUR_ZONE>
+  ```
+  - **Steo 5** : For `<YOUR_ZONE>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/019.png" alt="!ERROR"/> 
+      ### Note : The `ZONE` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Monitoring%20Qwik%20Start/quicklabgsp089.sh
+    sudo chmod +x quicklabgsp089.sh
+    ./quicklabgsp089.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Monitoring: Qwik Start GSP089](https://www.youtube.com/watch?v=zdAb31ShwLU) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Monitoring and Logging for Cloud Functions GSP092</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/019.png" alt="!ERROR"/> 
+      ### Note : The `REGION` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Monitoring%20and%20Logging%20for%20Cloud%20Functions/gsp092.sh
+    sudo chmod +x gsp092.sh
+    ./gsp092.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Monitoring and Logging for Cloud Functions GSP092](https://www.youtube.com/watch?v=o9lvQ3_JI-E) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Monitor an Apache Web Server using Ops Agent GSP1108</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Monitor%20an%20Apache%20Web%20Server%20using%20Ops%20Agent/gsp1108.sh
+    sudo chmod +x gsp1108.sh
+    ./gsp1108.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Monitor an Apache Web Server using Ops Agent GSP1108](https://www.youtube.com/watch?v=9CJtp89CqRc) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Monitoring in Google Cloud: Challenge Lab ARC115</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Monitoring in Google Cloud: Challenge Lab ARC115](https://www.youtube.com/watch?v=cZJn_C_Ry4w) 
 
 </details>
