@@ -434,7 +434,7 @@
 
 </details>
 <details>
-  <summary>Lab No. 3 :  Get Started with Dataplex: Challenge Lab ARC117</summary>
+  <summary>Lab No. 4 :  Get Started with Dataplex: Challenge Lab ARC117</summary>
 
   - **Step 1** : Start The lab 
   - **Step 2** : Open The Google Cloud Console into the incognative mode
