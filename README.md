@@ -463,3 +463,60 @@
 
 </details>
 
+### Skill Badge 6 - Get Started with Google Workspace Tools 
+
+<details>
+  <summary>Lab No. 1 : Level Up Your Google Workspace knowledge</summary>
+
+  - **Step 1** : Only See The Youtube Video Shown in the 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Gmail: Getting Started GSP465</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Gmail: Getting Started GSP465](https://www.youtube.com/watch?v=saL_ibySVx4) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Google Calendar: Getting Started GSP466</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google Calendar: Getting Started GSP466](https://www.youtube.com/watch?v=SbkqZsuJXfE) 
+
+</details> 
+<details>
+  <summary>Lab No. 4 : Google Meet: Getting Started GSP467</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google Meet: Getting Started GSP467](https://www.youtube.com/watch?v=NT4f67Qxkb4) 
+
+</details>
+<details>
+  <summary>Lab No. 5 : Google Drive: Getting Started GSP468</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google Drive: Getting Started GSP468](https://www.youtube.com/watch?v=rDmB4_RrOXs) 
+
+</details>
+<details>
+  <summary>Lab No. 6 : Google Sheets: Getting Started GSP469</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google Sheets: Getting Started GSP469](https://www.youtube.com/watch?v=lEvXXHKHgiw) 
+
+</details>
+<details>
+  <summary>Lab No. 7 : Google AppSheet: Getting Started GSP883</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google AppSheet: Getting Started GSP883](https://www.youtube.com/watch?v=GHrGaNce6WE&t=2s) 
+
+</details>
+<details>
+  <summary>Lab No. 8 : Get Started with Google Workspace Tools: Challenge Lab GSP376</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Google Sheets: Getting Started GSP469](https://www.youtube.com/watch?v=MXNF4k07aBg) 
+
+</details>
