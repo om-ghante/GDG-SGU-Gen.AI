@@ -983,3 +983,46 @@
   - ### Note : If You Having Any Trouble reffer this Video [Cloud Monitoring: Qwik Start GSP089](https://www.youtube.com/watch?v=zdAb31ShwLU) 
 
 </details>
+
+### Skill Badge 12 - Analyze Images with the Cloud Vision API 
+
+<details>
+  <summary>Lab No. 1 : APIs Explorer: Qwik Start GSP277</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/APIs%20Explorer%20Qwik%20Start/quicklabgsp277.sh    
+    sudo chmod +x quicklabgsp277.sh
+    ./quicklabgsp277.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [APIs Explorer: Qwik Start GSP277](https://www.youtube.com/watch?v=h9cyjXXE4b4) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Extract, Analyze, and Translate Text from Images with the Cloud ML APIs GSP075</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs GSP075](https://www.youtube.com/watch?v=5s4SWDj2jpA) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API GSP037</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API GSP037](https://www.youtube.com/watch?v=hmynvWhngh8) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Analyze Images with the Cloud Vision API: Challenge Lab ARC122</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [DAnalyze Images with the Cloud Vision API: Challenge Lab ARC122](https://www.cloudskillsboost.google/course_templates/633/labs/461567) 
+
+</details>
