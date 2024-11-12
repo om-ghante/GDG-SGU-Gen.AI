@@ -1053,6 +1053,43 @@
   <summary>Lab No. 4 : Prompt Design in Vertex AI: Challenge Lab GSP519</summary>
 
   - **Step 1** : Start The lab 
-  - Follow this video [Prompt Design in Vertex AI: Challenge Lab GSP519](https://www.youtube.com/watch?v=p9ihOVulbM8) 
+  - Follow this video [Prompt Design in Vertex AI: Challenge Lab GSP519](https://www.youtube.com/watch?v=p9ihOVulbM8&t=44s) 
+
+</details>
+
+### Skill Badge 14 - Develop GenAI Apps with Gemini and Streamlit 
+<details>
+  <summary>Lab No. 1 : Getting Started with the Vertex AI Gemini API with cURL GSP1228</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Getting Started with the Vertex AI Gemini API with cURL GSP1228](https://www.youtube.com/watch?v=W3VCuiPQsxE) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Introduction to Function Calling with Gemini GSP1227</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Introduction to Function Calling with Gemini GSP1227](https://www.youtube.com/watch?v=rnLMPSlXt_w) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Getting Started with the Vertex AI Gemini API and Python SDK GSP1209</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Getting Started with the Vertex AI Gemini API and Python SDK GSP1209](https://www.youtube.com/watch?v=48jaDRlEOfA&t=5s) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run GSP1229</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run GSP1229](https://www.youtube.com/watch?v=CQatKP76848) 
+
+</details>
+<details>
+  <summary>Lab No. 5 : Develop GenAI Apps with Gemini and Streamlit: Challenge Lab GSP517</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab GSP517](https://www.youtube.com/watch?v=DwOxKDyh1RU) 
 
 </details>
