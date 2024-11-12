@@ -909,3 +909,77 @@
   - Follow this video [Monitoring in Google Cloud: Challenge Lab ARC115](https://www.youtube.com/watch?v=cZJn_C_Ry4w) 
 
 </details>
+
+### Skill Badge 11 - Networking Fundamentals on Google Cloud 
+<details>
+  <summary>Lab No. 1 : VPC Networking Fundamentals GSP210</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [VPC Networking Fundamentals GSP210](https://www.youtube.com/watch?v=mFCTaOJ86zE) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Set Up Network and Application Load Balancers GSP007</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_ZONE>` before pasting.
+  ```bash
+    export ZONE=<YOUR_ZONE>
+  ```
+  - **Steo 5** : For `<YOUR_ZONE>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/020.png" alt="!ERROR"/> 
+      ### Note : The `ZONE` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
+    sudo chmod +x gsp007.sh
+    ./gsp007.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Monitoring: Qwik Start GSP089](https://www.youtube.com/watch?v=zdAb31ShwLU) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Internal Load Balancer GSP041</summary>
+
+  - **Step 1** : Start The lab 
+  - Follow this video [Internal Load Balancer GSP041](https://www.youtube.com/watch?v=refjyguVMYQ) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Networking Fundamentals on Google Cloud: Challenge Lab ARC124</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_ZONE>` before pasting.
+  ```bash
+    export ZONE=<YOUR_ZONE>
+  ```
+  - **Steo 5** : For `<YOUR_ZONE>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/021.png" alt="!ERROR"/> 
+      ### Note : The `ZONE` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/arc124.sh
+    sudo chmod +x arc124.sh
+    ./arc124.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Monitoring: Qwik Start GSP089](https://www.youtube.com/watch?v=zdAb31ShwLU) 
+
+</details>
