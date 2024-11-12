@@ -520,3 +520,123 @@
   - We Need to Complete this Lab without the commands so follow this video [Google Sheets: Getting Started GSP469](https://www.youtube.com/watch?v=MXNF4k07aBg) 
 
 </details>
+
+### Skill Badge 7 - Cloud Functions: 3 Ways
+
+<details>
+  <summary>Lab No. 1 : Cloud Run Functions: Qwik Start - Console GSP081</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/014.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Functions%20Qwik%20Start%20%20Console/quicklabsgsp081.sh
+    sudo chmod +x quicklabsgsp081.sh
+    ./quicklabsgsp081.sh    
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Run Functions: Qwik Start - Console GSP081](https://www.youtube.com/watch?v=URAbi1yqwNE) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Cloud Run Functions: Qwik Start - Command Line GSP080</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/015.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Functions%20Qwik%20Start%20Command%20Line/quicklabgsp080.sh
+    sudo chmod +x quicklabgsp080.sh
+    ./quicklabgsp080.sh  
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Run Functions: Qwik Start - Console GSP081](https://www.youtube.com/watch?v=URAbi1yqwNE) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Cloud Functions 2nd Gen: Qwik Start GSP1089</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-1.sh
+    sudo chmod +x gsp1089-1.sh
+    ./gsp1089-1.sh
+  ```
+  - ### Check All Score Upto Task 6
+  
+  - **Step 5** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-2.sh    
+    sudo chmod +x gsp1089-2.sh
+    ./gsp1089-2.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Functions 2nd Gen: Qwik Start GSP1089](https://www.youtube.com/watch?v=mTFfyHjp5rw) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Cloud Functions: 3 Ways: Challenge Lab ARC104</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export HTTP_FUNCTION=<YOUR_HTTP_FUNCTION>
+    export FUNCTION_NAME=<YOUR_FUNCTION_NAME>
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_HTTP_FUNCTION>,<YOUR_FUNCTION_NAME>,<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/016.png" alt="!ERROR"/> 
+      ### Note : The `Http Function, function, Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%203%20Ways%20Challenge%20Lab/arc104.sh
+    sudo chmod +x arc104.sh
+    ./arc104.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Functions: 3 Ways: Challenge Lab ARC104](https://www.youtube.com/watch?v=fPVslkWDTGg) 
+
+</details>
