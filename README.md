@@ -640,3 +640,122 @@
   - ### Note : If You Having Any Trouble reffer this Video [Cloud Functions: 3 Ways: Challenge Lab ARC104](https://www.youtube.com/watch?v=fPVslkWDTGg) 
 
 </details>
+
+### Skill Badge 8 - App Engine: 3 Ways 
+
+<details>
+  <summary>Lab No. 1 : App Engine: Qwik Start - Python GSP067</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/017.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/App%20Engine%20Qwik%20Start%20-%20Python/gsp067.sh
+    sudo chmod +x gsp067.sh
+    ./gsp067.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [App Engine: Qwik Start - Python GSP067](https://www.youtube.com/watch?v=Lq7ZW37tUIM) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : App Engine: Qwik Start - Go GSP070</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/017.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/App%20Engine%20Qwik%20Start%20-%20Go/gsp070.sh
+    sudo chmod +x gsp070.sh
+    ./gsp070.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [App Engine: Qwik Start - Go GSP070](https://www.youtube.com/watch?v=3cVxYis4Hj8) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : App Engine: Qwik Start - PHP GSP069</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/017.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/App%20Engine%20Qwik%20Start%20PHP/quicklabgsp069.sh
+    sudo chmod +x quicklabgsp069.sh
+    ./quicklabgsp069.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [App Engine: Qwik Start - PHP GSP069](https://www.youtube.com/watch?v=sxlXdG7sLy4) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : App Engine: 3 Ways: Challenge Lab ARC112</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_MESSAGE>` before pasting.
+  ```bash
+    export MESSAGE=<YOUR_MESSAGE>
+  ```
+  - **Steo 5** : For `<YOUR_MESSAGE>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/017.png" alt="!ERROR"/> 
+      ### Note : The `MESSAGE` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/App%20Engine%203%20Ways%20Challenge%20Lab/arc112.sh
+    sudo chmod +x arc112.sh 
+    ./arc112.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [App Engine: 3 Ways: Challenge Lab ARC112](https://www.youtube.com/watch?v=sX1-LFEsizo) 
+
+</details>
