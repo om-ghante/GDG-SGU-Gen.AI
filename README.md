@@ -108,17 +108,18 @@
   - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
       <img src="./imges/004.png" alt="!ERROR"/> 
       ### Note : The `PROJECT_ID` migth be different and don't forget to copy `-bucket` also `PROJECT_ID-bucket`.
+  - **Step 7** : Create the Bucket.
   - **Step 8** : Copy the Commands given below and paste it in the google cloud console 
   - ### Replace the `<YOUR_ZONE>` before pasting.
   ```bash
     export ZONE=<YOUR_ZONE>
   ```
-  - **Steo 5** : For `<YOUR_ZONE>` Go to Lab instructions again.
-  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+  - **Steo 9** : For `<YOUR_ZONE>` Go to Lab instructions again.
+  - **Steo 10** : Scroll down A little bit and u see the section called As shown in the image bellow
       <img src="./imges/005.png" alt="!ERROR"/> 
       ### Note : The `Zone` migth be different.
 
-  - **Step 8** : Copy the Commands given below and paste it in the google cloud console 
+  - **Step 11** : Copy the Commands given below and paste it in the google cloud console 
 
   ```bash
     curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/The%20Basics%20of%20Google%20Cloud%20Compute%20Challenge%20Lab/arc120.sh
@@ -203,7 +204,115 @@
   <summary>Lab No. 4 : Get Started with Cloud Storage: Challenge Lab ARC111</summary>
 
   - **Step 1** : Start The lab 
-  - ### Follow this video [Get Started with Cloud Storage: Challenge Lab ARC111](https://www.youtube.com/watch?v=5XhxAXn-qlc) 
+  - ### Follow this video [APIs Explorer: Cloud Storage GSP421](https://www.youtube.com/watch?v=M2kq4hF1PLo) 
 
 </details>
+
+### SKill Badge 3 - Get Started with API Gateway 
+
+<details>
+  <summary>Lab No. 1 : API Gateway: Qwik Start GSP782</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Go to lab Insturctions.
+  - **Steo 5** : Copy the Commands given below and paste it in the google cloud console 
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/008.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/API%20Gateway%20Qwik%20Start/gsp872.sh
+    sudo chmod +x gsp872.sh
+    ./gsp872.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [API Gateway: Qwik Start GSP782](https://www.youtube.com/watch?v=5Ae2ftnjJfM) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Pub/Sub: Qwik Start - Console GSP096</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Open the Google Cloud Console 
+  - **Step 8** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    gcloud pubsub topics create myTopic
+    gcloud  pubsub subscriptions create --topic myTopic MySub
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Pub/Sub: Qwik Start - Console GSP096](https://www.youtube.com/watch?v=cAoJDu1BcJA)
+
+</details>
+<details>
+  <summary>Lab No. 3 : Cloud Run Functions: Qwik Start - Console GSP081</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/009.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%20Qwik%20Start%20-%20Console/gsp081.sh
+    sudo chmod +x gsp081.sh
+    ./gsp081.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Cloud Run Functions: Qwik Start - Console GSP081](https://www.youtube.com/watch?v=-8vxVRA2ruk) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Getting Started with API Gateway: Challenge Lab ARC109</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/010.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Getting%20Started%20with%20API%20Gateway%20Challenge%20Lab/arc109.sh
+    sudo chmod +x arc109.sh
+    ./arc109.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Getting Started with API Gateway: Challenge Lab ARC109](https://www.youtube.com/watch?v=iWRh0xCKwRQ) 
+
+</details>
+
+
+
 
