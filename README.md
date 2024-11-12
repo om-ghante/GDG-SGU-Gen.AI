@@ -139,7 +139,7 @@
   <summary>Lab No. 1 : APIs Explorer: Cloud Storage GSP421</summary>
 
   - **Step 1** : Start The lab 
-  - ### We Need to Complete this Lab without the commands so follow this video [APIs Explorer: Cloud Storage GSP421](https://www.youtube.com/watch?v=M2kq4hF1PLo) 
+  - We Need to Complete this Lab without the commands so follow this video [APIs Explorer: Cloud Storage GSP421](https://www.youtube.com/watch?v=M2kq4hF1PLo) 
 
 </details>
 
@@ -204,7 +204,7 @@
   <summary>Lab No. 4 : Get Started with Cloud Storage: Challenge Lab ARC111</summary>
 
   - **Step 1** : Start The lab 
-  - ### Follow this video [APIs Explorer: Cloud Storage GSP421](https://www.youtube.com/watch?v=M2kq4hF1PLo) 
+  - Follow this video [APIs Explorer: Cloud Storage GSP421](https://www.youtube.com/watch?v=M2kq4hF1PLo) 
 
 </details>
 
@@ -313,6 +313,36 @@
 
 </details>
 
+### Skill Badge 4 - Get Started with Looker 
+
+<details>
+  <summary>Lab No. 1 : Looker Studio: Qwik Start GSP136</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Looker Studio: Qwik Start GSP136](https://www.youtube.com/watch?v=NYra6SWFrwQ) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Looker Data Explorer - Qwik Start GSP718</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Looker Data Explorer - Qwik Start GSP718](https://www.youtube.com/watch?v=uZaNj0Mpz4s) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Looker Developer: Qwik Start GSP891</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Looker Developer: Qwik Start GSP891](https://www.youtube.com/watch?v=wNgUf8-XfLM) 
+
+</details>
+<details>
+  <summary>Lab No. 4 : Get Started with Looker: Challenge Lab ARC107</summary>
+
+  - **Step 1** : Start The lab 
+  - We Need to Complete this Lab without the commands so follow this video [Get Started with Looker: Challenge Lab ARC107](https://www.youtube.com/watch?v=qdFwc3OY3nA) 
+
+</details>
 
 
 
