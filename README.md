@@ -344,5 +344,122 @@
 
 </details>
 
+### Skill Badge 5 - Get Started with Dataplex 
 
+<details>
+  <summary>Lab No. 1 : Dataplex: Qwik Start - Console GSP1143</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/011.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataplex%20Qwik%20Start%20-%20Console/gsp1143.sh
+    sudo chmod +x gsp1143.sh
+    ./gsp1143.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Dataplex: Qwik Start - Console GSP1143](https://www.youtube.com/watch?v=yDQfs8fNBgM) 
+
+</details>
+<details>
+  <summary>Lab No. 2 : Dataplex: Qwik Start - Command Line GSP1144</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/012.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataplex%20Qwik%20Start%20-%20Command%20Line/gsp1144.sh
+    sudo chmod +x gsp1144.sh
+    ./gsp1144.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Dataplex: Qwik Start - Command Line GSP1144](https://www.youtube.com/watch?v=GVKNYbTUDIU) 
+
+</details>
+<details>
+  <summary>Lab No. 3 : Tagging Dataplex Assets GSP1145</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/013.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Tagging%20Dataplex%20Assets/gsp1145.sh
+    sudo chmod +x gsp1145.sh
+    ./gsp1145.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Tagging Dataplex Assets GSP1145](https://www.youtube.com/watch?v=s-3nNkkocdo) 
+
+</details>
+<details>
+  <summary>Lab No. 3 :  Get Started with Dataplex: Challenge Lab ARC117</summary>
+
+  - **Step 1** : Start The lab 
+  - **Step 2** : Open The Google Cloud Console into the incognative mode
+  - **Step 3** : Login Using the username and Password given in the perticular lab
+  - **Step 4** : Copy the Commands given below and paste it in the google cloud console 
+  - ### Replace the `<YOUR_REGION>` before pasting.
+  ```bash
+    export REGION=<YOUR_REGION>
+  ```
+  - **Steo 5** : For `<YOUR_REGION>` Go to Lab instructions again.
+  - **Steo 6** : Scroll down A little bit and u see the section called As shown in the image bellow
+      <img src="./imges/013.png" alt="!ERROR"/> 
+      ### Note : The `Region` migth be different.
+
+  - **Step 7** : Copy the Commands given below and paste it in the google cloud console 
+
+  ```bash
+    curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20Dataplex%20Challenge%20Lab/arc117.sh
+    sudo chmod +x arc117.sh
+    ./arc117.sh
+  ```
+
+  - ### Lab is completed
+
+  - ### Note : If You Having Any Trouble reffer this Video [Get Started with Dataplex: Challenge Lab ARC117](https://www.youtube.com/watch?v=NzRcltfHzu0) 
+
+</details>
 
